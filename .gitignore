@@ -1,0 +1,24 @@
+# LaTex
+*.aux
+*.bbl
+*.out
+*.toc
+*.blg
+*.log
+*.lof
+
+# emacs specific files
+
+auto-save-list
+custom.el
+url/
+.org-id-locations
+\#*
+org-mode-config.el
+*~
+.#*
+\#*\#
+*.log
+.DS_Store
+org-clock-save.el
+emacs-config.el
